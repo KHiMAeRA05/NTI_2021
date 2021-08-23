@@ -6,7 +6,8 @@
 #### Файлы:
 - Omega_947.ipynb - код, который создаёт, обучает и тестирует модель (Jupyter Notebook)
 - sub.rar - архив с сохранённой моделью и кодом (создан по требованию организаторов для оценки модели)
-- ONTI_Dataset_parsed.csv - данные
+- ONTI_Dataset_parsed.csv - данные, которые необходимы для полноценного запуска Omega_947 (https://drive.google.com/file/d/1G_RG75VuXEjRBroiGo0zUxhqbFq6tXbt/view)
+- Task_describe.docx - развёрнутое описание задачи
 
 
 
